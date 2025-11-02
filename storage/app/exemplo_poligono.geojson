@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-48.0, -16.0],
+        [-48.0, -15.6],
+        [-47.6, -15.6],
+        [-47.6, -16.0],
+        [-48.0, -16.0]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "Região de Interesse",
+    "description": "Área de interesse georreferenciada"
+  }
+}
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+# Arquivos de texto que devem sempre ter line endings LF
+*.php text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.blade.php text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Arquivos binários
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+
+
+
+
+
+

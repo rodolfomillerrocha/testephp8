@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.88, -15.79]
+  },
+  "properties": {
+    "name": "Brasília - Centro do Brasil",
+    "description": "Pontos georreferenciados para teste"
+  }
+}
+
+
+
+
+
+
